@@ -29,7 +29,7 @@
 <h4 align="left">
 • Clean Architecture, SOLID, KISS, DRY <br>
 • MVVVM, MVI, MVP, Android SDK, Retrofit, Coroutines, Kotlin Flow, RxJava (basics), REST API, SQLite, Room, Koin, Hilt, Jetpack Navigation Component, Git, Github Actions, Gradle, CI/CD  <br>
-• Istruments: Android Studio, IntelliJ IDEA, GitHub, Gitlab, Firebase, Google Cloud Console, Figma <br>
+• Instruments: Android Studio, IntelliJ IDEA, GitHub, Gitlab, Firebase, Google Cloud Console, Figma <br>
   </h4>
 
 <h2 align="left"> 📫How to reach me:</h2>
