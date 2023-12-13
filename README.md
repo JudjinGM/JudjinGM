@@ -2,12 +2,7 @@
 
 <h2 align="left">About me:
 <h3 align="left">My name is Ilnur Valiev 
-<h3 align="left">I am Android developer   <img src="https://cdn-images-1.medium.com/max/1200/1*3tLD4Ve66pbBpuawm9Fu9Q.png" height="24"/>
-<h4 align="left">
-  I am fond of programming (Java, Kotlin).
-  Eager to pursue professional growth, I dedicate time daily to learning languages, frameworks, and new stacks.<br>
-</h4>
-</h2>
+<h3 align="left">I am Android developer   <img src="https://cdn-images-1.medium.com/max/1200/1*3tLD4Ve66pbBpuawm9Fu9Q.png" height="24"/></h2>
 
 ###
 
