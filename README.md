@@ -23,7 +23,7 @@
 <h2 align="left">My stack:</h2>
 <h4 align="left">
 • Clean Architecture, SOLID, KISS, DRY <br>
-• MVVM, MVI, MVP, Android SDK, Retrofit, Coroutines, Kotlin Flow, RxJava (basics), REST API, SQLite, Room, Koin, Hilt, Jetpack Navigation Component, Git, Github Actions, Gradle, CI/CD  <br>
+• MVVM, MVI, MVP, Android SDK, Retrofit, Coroutines, Kotlin Flow, REST API, SQLite, Room, Koin, Hilt, Jetpack Navigation Component, WorkManager, Jetpack Compose, Git, Github Actions, Gradle, CI/CD  <br>
 • Instruments: Android Studio, IntelliJ IDEA, GitHub, Gitlab, Firebase, Google Cloud Console, Figma <br>
   </h4>
 
